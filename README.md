@@ -1,4 +1,4 @@
-# Blink
+# ROS_Blink
 ROS_Serial_ARduino program to Blink LED
 
 In ROS: 
